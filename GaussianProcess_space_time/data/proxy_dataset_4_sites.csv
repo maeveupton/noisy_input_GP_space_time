@@ -1,0 +1,742 @@
+RSL,Age,Age_er_average,RSL_er_average,RSL_er_max,RSL_er_min,Age_er_max,Age_er_min,SiteName,Region,RegionSite,Longitude,Latitude
+-0.91,1.336,0.0165,0.04,0.04,0.04,0.0165,0.0165,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.78,1.413,0.0135,0.04,0.04,0.04,0.0135,0.0135,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.82,1.441,0.0205,0.04,0.04,0.04,0.0205,0.0205,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.69,1.561,0.041,0.04,0.04,0.04,0.041,0.041,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.63,1.57,0.043,0.05,0.05,0.05,0.043,0.043,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.53,1.655,0.0135,0.05,0.05,0.05,0.0135,0.0135,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.47,1.713,0.0065,0.05,0.05,0.05,0.0065,0.0065,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.42,1.789,0.0045,0.05,0.05,0.05,0.0045,0.0045,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.4,1.825,0.0125,0.05,0.05,0.05,0.0125,0.0125,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.32,1.875,0.0125,0.05,0.05,0.05,0.0125,0.0125,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+0.03,2,0.00175,0.11,0.11,0.11,0.0015,0.002,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+0,1.996,0.00175,0.13,0.13,0.13,0.0015,0.002,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+0,1.994,0.002,0.1,0.1,0.1,0.001,0.003,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.06,1.993,0.00225,0.11,0.11,0.11,0.0015,0.003,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.07,1.99,0.00275,0.11,0.11,0.11,0.0025,0.003,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.09,1.989,0.003,0.1,0.1,0.1,0.003,0.003,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.1,1.986,0.00275,0.09,0.09,0.09,0.003,0.0025,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.17,1.984,0.00225,0.14,0.14,0.14,0.003,0.0015,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.15,1.981,0.00175,0.11,0.11,0.11,0.0025,0.001,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.18,1.978,0.001,0.11,0.11,0.11,0.001,0.001,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.13,1.977,0.0015,0.1,0.1,0.1,0.001,0.002,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.19,1.974,0.002,0.09,0.09,0.09,5e-4,0.0035,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.22,1.973,0.003,0.11,0.11,0.11,0.001,0.005,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.21,1.972,0.00375,0.1,0.1,0.1,0.0015,0.006,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.23,1.97,0.00425,0.09,0.09,0.09,0.0015,0.007,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.22,1.967,0.00375,0.09,0.09,0.09,0.001,0.0065,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.24,1.962,0.00375,0.09,0.09,0.09,0.0025,0.005,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.28,1.956,0.005,0.14,0.14,0.14,0.004,0.006,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.3,1.947,0.00475,0.15,0.15,0.15,0.0045,0.005,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.29,1.941,0.00425,0.14,0.14,0.14,0.004,0.0045,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.29,1.938,0.003,0.21,0.21,0.21,0.001,0.005,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.37,1.93,0.00425,0.13,0.13,0.13,0.002,0.0065,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.32,1.926,0.00625,0.13,0.13,0.13,0.001,0.0115,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.41,1.924,0.007,0.15,0.15,0.15,0.001,0.013,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.41,1.923,0.00725,0.14,0.14,0.14,0.001,0.0135,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.56,1.912,0.0075,0.08,0.08,0.08,0.005,0.01,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.52,1.905,0.0075,0.11,0.11,0.11,0.007,0.008,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.38,1.896,0.00525,0.14,0.14,0.14,0.004,0.0065,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.4,1.89,0.00425,0.14,0.14,0.14,0.0025,0.006,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.46,1.883,0.004,0.13,0.13,0.13,0.003,0.005,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.44,1.878,0.00425,0.13,0.13,0.13,0.004,0.0045,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.54,1.875,0.003,0.16,0.16,0.16,0.002,0.004,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.53,1.869,0.00325,0.15,0.15,0.15,0.002,0.0045,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.51,1.863,0.004,0.15,0.15,0.15,0.004,0.004,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.62,1.859,0.00375,0.12,0.12,0.12,0.0045,0.003,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.63,1.843,0.015,0.11,0.11,0.11,0.0075,0.0225,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.66,1.759,0.0225,0.11,0.11,0.11,0.0445,5e-4,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.58,1.75,0.0255,0.12,0.12,0.12,0.0455,0.0055,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.79,1.741,0.02475,0.09,0.09,0.09,0.0465,0.003,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.75,1.729,0.02425,0.13,0.13,0.13,0.0375,0.011,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.79,1.724,0.016,0.11,0.11,0.11,0.0175,0.0145,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.89,1.708,0.01125,0.09,0.09,0.09,0.007,0.0155,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.9,1.68,0.011,0.11,0.11,0.11,0.0145,0.0075,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.89,1.661,0.006,0.13,0.13,0.13,0.006,0.006,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.89,1.647,0.00725,0.16,0.16,0.16,0.0065,0.008,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.96,1.622,0.0135,0.09,0.09,0.09,0.0085,0.0185,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.97,1.604,0.015,0.09,0.09,0.09,0.0145,0.0155,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.97,1.587,0.015,0.11,0.11,0.11,0.0185,0.0115,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-1.1,1.538,0.01875,0.13,0.13,0.13,0.016,0.0215,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-1.14,1.525,0.02,0.1,0.1,0.1,0.018,0.022,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-1.1,1.506,0.02075,0.13,0.13,0.13,0.022,0.0195,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-1.38,1.32,0.02375,0.15,0.15,0.15,0.025,0.0225,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-1.48,1.312,0.023,0.09,0.09,0.09,0.026,0.02,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-1.49,1.285,0.01975,0.12,0.12,0.12,0.024,0.0155,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-1.43,1.265,0.0105,0.12,0.12,0.12,0.0055,0.0155,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-1.37,1.248,0.01325,0.19,0.19,0.19,0.0085,0.018,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-1.49,1.227,0.015,0.1,0.1,0.1,0.015,0.015,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-1.32,1.205,0.0145,0.17,0.17,0.17,0.0165,0.0125,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-1.33,1.187,0.01325,0.24,0.24,0.24,0.01,0.0165,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-1.32,1.167,0.018,0.15,0.15,0.15,0.0115,0.0245,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-1.53,1.142,0.02325,0.16,0.16,0.16,0.0195,0.027,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-1.56,1.118,0.0245,0.17,0.17,0.17,0.025,0.024,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-1.44,1.101,0.02325,0.27,0.27,0.27,0.027,0.0195,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-1.59,1.051,0.0185,0.1,0.1,0.1,0.0255,0.0115,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-1.56,1.033,0.01875,0.15,0.15,0.15,0.0205,0.017,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-1.7,1.021,0.0175,0.1,0.1,0.1,0.019,0.016,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-1.7,1.003,0.01525,0.1,0.1,0.1,0.018,0.0125,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-1.65,0.991,0.01425,0.24,0.24,0.24,0.016,0.0125,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-1.65,0.977,0.012,0.19,0.19,0.19,0.008,0.016,Southern New Jersey - CMC,New Jersey,"Cape May Courthouse,
+ New Jersey",-74.812,39.086
+-0.07,1.995,0.0095,0.07,0.07,0.07,0.0095,0.0095,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.09,1.994,0.01,0.07,0.07,0.07,0.01,0.01,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.16,1.99,0.0125,0.07,0.07,0.07,0.0125,0.0125,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.17,1.973,0.009,0.07,0.07,0.07,0.009,0.009,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.22,1.949,0.0075,0.07,0.07,0.07,0.0075,0.0075,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.22,1.933,0.0075,0.07,0.07,0.07,0.0075,0.0075,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.27,1.919,0.0075,0.08,0.08,0.08,0.0075,0.0075,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.28,1.916,0.008,0.07,0.07,0.07,0.008,0.008,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.3,1.914,0.0085,0.07,0.07,0.07,0.0085,0.0085,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.26,1.898,0.013,0.07,0.07,0.07,0.013,0.013,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.32,1.883,0.02,0.08,0.08,0.08,0.02,0.02,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.37,1.845,0.03,0.07,0.07,0.07,0.03,0.03,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.39,1.817,0.0325,0.08,0.08,0.08,0.0325,0.0325,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.46,1.728,0.033,0.07,0.07,0.07,0.033,0.033,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.48,1.706,0.031,0.07,0.07,0.07,0.031,0.031,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.48,1.681,0.0255,0.06,0.06,0.06,0.0255,0.0255,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.53,1.67,0.024,0.07,0.07,0.07,0.024,0.024,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.5,1.649,0.023,0.07,0.07,0.07,0.023,0.023,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.55,1.628,0.019,0.07,0.07,0.07,0.019,0.019,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.56,1.6,0.0145,0.07,0.07,0.07,0.0145,0.0145,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.56,1.589,0.016,0.07,0.07,0.07,0.016,0.016,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.54,1.579,0.018,0.07,0.07,0.07,0.018,0.018,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.54,1.575,0.019,0.07,0.07,0.07,0.019,0.019,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.55,1.562,0.0215,0.06,0.06,0.06,0.0215,0.0215,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.62,1.554,0.0225,0.06,0.06,0.06,0.0225,0.0225,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.6,1.54,0.0205,0.06,0.06,0.06,0.0205,0.0205,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.6,1.518,0.0245,0.07,0.07,0.07,0.0245,0.0245,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.66,1.488,0.025,0.06,0.06,0.06,0.025,0.025,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.66,1.473,0.0225,0.07,0.07,0.07,0.0225,0.0225,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.64,1.46,0.0205,0.07,0.07,0.07,0.0205,0.0205,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.7,1.421,0.0175,0.07,0.07,0.07,0.0175,0.0175,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.71,1.373,0.0205,0.07,0.07,0.07,0.0205,0.0205,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.74,1.359,0.0225,0.07,0.07,0.07,0.0225,0.0225,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.74,1.351,0.0225,0.07,0.07,0.07,0.0225,0.0225,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.74,1.307,0.0395,0.07,0.07,0.07,0.0395,0.0395,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.77,1.224,0.0645,0.07,0.07,0.07,0.0645,0.0645,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.77,1.187,0.0715,0.07,0.07,0.07,0.0715,0.0715,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.8,1.116,0.075,0.07,0.07,0.07,0.075,0.075,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.77,1.071,0.0695,0.07,0.07,0.07,0.0695,0.0695,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.84,0.943,0.042,0.08,0.08,0.08,0.042,0.042,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.91,0.794,0.039,0.07,0.07,0.07,0.039,0.039,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.92,0.708,0.058,0.07,0.07,0.07,0.058,0.058,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.93,0.576,0.0855,0.07,0.07,0.07,0.0855,0.0855,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.95,0.491,0.094,0.08,0.08,0.08,0.094,0.094,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.97,0.459,0.093,0.07,0.07,0.07,0.093,0.093,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.96,0.425,0.089,0.08,0.08,0.08,0.089,0.089,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.96,0.374,0.082,0.07,0.07,0.07,0.082,0.082,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.95,0.253,0.0515,0.07,0.07,0.07,0.0515,0.0515,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-1,0.176,0.0305,0.07,0.07,0.07,0.0305,0.0305,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-1.03,0.139,0.0345,0.07,0.07,0.07,0.0345,0.0345,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-1.06,0.099,0.0305,0.07,0.07,0.07,0.0305,0.0305,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-1.11,0.058,0.0295,0.07,0.07,0.07,0.0295,0.0295,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-1.07,-0.017,0.0345,0.07,0.07,0.07,0.0345,0.0345,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-1.1,-0.033,0.0355,0.07,0.07,0.07,0.0355,0.0355,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-1.1,-0.084,0.0365,0.07,0.07,0.07,0.0365,0.0365,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-1.11,-0.112,0.0285,0.07,0.07,0.07,0.0285,0.0285,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-1.15,-0.124,0.025,0.07,0.07,0.07,0.025,0.025,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-1.13,-0.14,0.021,0.07,0.07,0.07,0.021,0.021,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-1.1,-0.156,0.018,0.07,0.07,0.07,0.018,0.018,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.99,-0.16,0.018,0.07,0.07,0.07,0.018,0.018,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-1.1,-0.172,0.0215,0.07,0.07,0.07,0.0215,0.0215,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-1.08,-0.192,0.029,0.06,0.06,0.06,0.029,0.029,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-1.06,-0.209,0.035,0.07,0.07,0.07,0.035,0.035,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-1.08,-0.221,0.0385,0.07,0.07,0.07,0.0385,0.0385,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-1.03,-0.231,0.0415,0.07,0.07,0.07,0.0415,0.0415,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-0.99,-0.273,0.055,0.08,0.08,0.08,0.055,0.055,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-1.06,-0.304,0.063,0.07,0.07,0.07,0.063,0.063,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-1.01,-0.327,0.0705,0.08,0.08,0.08,0.0705,0.0705,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+-1.01,-0.343,0.076,0.08,0.08,0.08,0.076,0.076,"Little Manatee River,
+ Florida",Florida,"Little Manatee River,
+ Florida",-82.453,27.696
+0,1.993,0.00725,0.06,0.06,0.06,0.0075,0.007,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+0.03,1.989,0.007,0.07,0.07,0.07,0.008,0.006,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+0.02,1.984,0.00675,0.06,0.06,0.06,0.0085,0.005,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+0.02,1.975,0.0055,0.12,0.12,0.12,0.0065,0.0045,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.13,1.968,0.0055,0.05,0.05,0.05,0.005,0.006,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.11,1.961,0.00925,0.06,0.06,0.06,0.0055,0.013,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.12,1.934,0.01075,0.06,0.06,0.06,0.013,0.0085,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.07,1.916,0.01175,0.07,0.07,0.07,0.011,0.0125,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+0.01,1.89,0.01225,0.09,0.09,0.09,0.0135,0.011,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.03,1.87,0.00975,0.1,0.1,0.1,0.0105,0.009,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.15,1.858,0.0105,0.11,0.11,0.11,0.007,0.014,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.16,1.84,0.01775,0.08,0.08,0.08,0.011,0.0245,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.42,1.812,0.028,0.36,0.36,0.36,0.0145,0.0415,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.2,1.774,0.03125,0.12,0.12,0.12,0.023,0.0395,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.84,1.737,0.03325,0.37,0.37,0.37,0.037,0.0295,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.31,1.701,0.03475,0.15,0.15,0.15,0.0505,0.019,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.36,1.664,0.05775,0.22,0.22,0.22,0.062,0.0535,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.29,1.616,0.05525,0.08,0.08,0.08,0.052,0.0585,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.34,1.564,0.047,0.13,0.13,0.13,0.0465,0.0475,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.5,1.514,0.04575,0.27,0.27,0.27,0.057,0.0345,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.33,1.454,0.0415,0.06,0.06,0.06,0.0665,0.0165,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.34,1.428,0.02175,0.07,0.07,0.07,0.036,0.0075,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.43,1.421,0.00675,0.1,0.1,0.1,0.0065,0.007,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.47,1.415,0.008,0.11,0.11,0.11,0.007,0.009,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.49,1.41,0.011,0.14,0.14,0.14,0.007,0.015,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.5,1.408,0.01625,0.13,0.13,0.13,0.0055,0.027,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.56,1.405,0.01975,0.15,0.15,0.15,0.006,0.0335,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.51,1.396,0.02025,0.11,0.11,0.11,0.0085,0.032,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.44,1.381,0.01975,0.1,0.1,0.1,0.013,0.0265,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.51,1.369,0.01975,0.12,0.12,0.12,0.017,0.0225,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.53,1.357,0.0205,0.1,0.1,0.1,0.021,0.02,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.62,1.342,0.02175,0.06,0.06,0.06,0.026,0.0175,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.63,1.324,0.02125,0.06,0.06,0.06,0.0295,0.013,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.6,1.307,0.029,0.06,0.06,0.06,0.029,0.029,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.71,1.285,0.03575,0.05,0.05,0.05,0.029,0.0425,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.75,1.259,0.038,0.04,0.04,0.04,0.03,0.046,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.71,1.239,0.04025,0.06,0.06,0.06,0.0315,0.049,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.72,1.217,0.0435,0.06,0.06,0.06,0.036,0.051,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.79,1.196,0.0445,0.05,0.05,0.05,0.0355,0.0535,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.81,1.17,0.0465,0.05,0.05,0.05,0.0335,0.0595,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.83,1.139,0.059,0.05,0.05,0.05,0.0325,0.0855,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.84,1.093,0.0775,0.05,0.05,0.05,0.039,0.116,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.83,1.045,0.09725,0.06,0.06,0.06,0.043,0.1515,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.89,0.943,0.10425,0.05,0.05,0.05,0.07,0.1385,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.9,0.787,0.09775,0.05,0.05,0.05,0.1035,0.092,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.9,0.634,0.11025,0.06,0.06,0.06,0.1405,0.08,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.92,0.523,0.0905,0.06,0.06,0.06,0.0875,0.0935,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.93,0.395,0.0825,0.06,0.06,0.06,0.0725,0.0925,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.93,0.255,0.099,0.08,0.08,0.08,0.0995,0.0985,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.99,0.096,0.075,0.06,0.06,0.06,0.0955,0.0545,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-0.96,0.039,0.06375,0.07,0.07,0.07,0.08,0.0475,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.07,-0.016,0.04975,0.05,0.05,0.05,0.0635,0.036,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.07,-0.068,0.045,0.05,0.05,0.05,0.05,0.04,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.09,-0.113,0.03175,0.05,0.05,0.05,0.029,0.0345,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.11,-0.154,0.0305,0.05,0.05,0.05,0.0335,0.0275,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.13,-0.197,0.0305,0.05,0.05,0.05,0.038,0.023,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.1,-0.22,0.02225,0.06,0.06,0.06,0.026,0.0185,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.16,-0.232,0.01625,0.06,0.06,0.06,0.013,0.0195,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.16,-0.242,0.01725,0.06,0.06,0.06,0.016,0.0185,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.21,-0.252,0.0185,0.05,0.05,0.05,0.017,0.02,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.23,-0.267,0.0205,0.05,0.05,0.05,0.019,0.022,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.27,-0.283,0.02275,0.04,0.04,0.04,0.0215,0.024,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.27,-0.298,0.0235,0.05,0.05,0.05,0.024,0.023,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.3,-0.311,0.02325,0.05,0.05,0.05,0.026,0.0205,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.29,-0.33,0.026,0.06,0.06,0.06,0.032,0.02,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.35,-0.354,0.02625,0.05,0.05,0.05,0.0365,0.016,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.34,-0.376,0.01975,0.05,0.05,0.05,0.029,0.0105,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.39,-0.397,0.0275,0.05,0.05,0.05,0.023,0.032,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.4,-0.432,0.02775,0.05,0.05,0.05,0.0175,0.038,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.41,-0.479,0.03825,0.05,0.05,0.05,0.033,0.0435,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.4,-0.525,0.04225,0.06,0.06,0.06,0.04,0.0445,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.34,-0.563,0.0495,0.07,0.07,0.07,0.037,0.062,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.46,-0.602,0.0515,0.05,0.05,0.05,0.033,0.07,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+-1.32,-0.634,0.05525,0.1,0.1,0.1,0.039,0.0715,"Placentia,
+ Newfoundland",Newfoundland,"Placentia,
+ Newfoundland",-53.96,47.235
+0.04,2.01,5e-4,0.08,0.08,0.08,5e-4,5e-4,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+0.04,2.007,0.00225,0.08,0.08,0.08,0.0015,0.003,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.04,2.004,0.00225,0.08,0.08,0.08,0.0015,0.003,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+0.01,2.002,0.00225,0.08,0.08,0.08,0.0015,0.003,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.07,2,0.0025,0.08,0.08,0.08,0.0015,0.0035,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.01,1.997,0.003,0.08,0.08,0.08,0.002,0.004,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.11,1.994,0.003,0.08,0.08,0.08,0.002,0.004,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.06,1.99,0.0035,0.08,0.08,0.08,0.002,0.005,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.05,1.986,0.004,0.08,0.08,0.08,0.0025,0.0055,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.11,1.98,0.005,0.08,0.08,0.08,0.0035,0.0065,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.15,1.976,0.0055,0.08,0.08,0.08,0.0035,0.0075,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.16,1.969,0.00575,0.08,0.08,0.08,0.004,0.0075,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.16,1.964,0.006,0.08,0.08,0.08,0.004,0.008,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.2,1.958,0.0045,0.08,0.08,0.08,0.0035,0.0055,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.27,1.954,0.0015,0.08,0.08,0.08,0.001,0.002,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.19,1.95,0.0055,0.08,0.08,0.08,0.002,0.009,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.25,1.945,0.0075,0.08,0.08,0.08,0.003,0.012,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.29,1.935,0.014,0.08,0.08,0.08,0.006,0.022,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.29,1.925,0.01875,0.08,0.08,0.08,0.0085,0.029,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.33,1.907,0.02125,0.08,0.08,0.08,0.013,0.0295,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.23,1.888,0.02075,0.08,0.08,0.08,0.014,0.0275,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.33,1.868,0.01725,0.08,0.08,0.08,0.0115,0.023,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.27,1.848,0.0255,0.08,0.08,0.08,0.0165,0.0345,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.33,1.824,0.03075,0.08,0.08,0.08,0.024,0.0375,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.32,1.801,0.0345,0.08,0.08,0.08,0.031,0.038,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.37,1.792,0.035,0.08,0.08,0.08,0.0315,0.0385,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.37,1.787,0.0345,0.08,0.08,0.08,0.03,0.039,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.45,1.782,0.03375,0.08,0.08,0.08,0.0285,0.039,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.48,1.775,0.0335,0.08,0.08,0.08,0.0275,0.0395,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.49,1.769,0.033,0.08,0.08,0.08,0.0255,0.0405,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.45,1.762,0.034,0.08,0.08,0.08,0.0245,0.0435,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.57,1.755,0.03525,0.08,0.08,0.08,0.024,0.0465,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.58,1.748,0.03625,0.08,0.08,0.08,0.023,0.0495,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.57,1.741,0.038,0.08,0.08,0.08,0.0225,0.0535,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.58,1.732,0.03725,0.08,0.08,0.08,0.0215,0.053,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.6,1.722,0.036,0.08,0.08,0.08,0.0215,0.0505,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.59,1.711,0.03575,0.08,0.08,0.08,0.0225,0.049,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.63,1.699,0.03525,0.08,0.08,0.08,0.0235,0.047,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.59,1.688,0.034,0.08,0.08,0.08,0.0235,0.0445,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.64,1.676,0.036,0.08,0.08,0.08,0.0255,0.0465,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.64,1.662,0.03975,0.08,0.08,0.08,0.027,0.0525,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.67,1.647,0.042,0.08,0.08,0.08,0.029,0.055,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.67,1.632,0.04325,0.08,0.08,0.08,0.03,0.0565,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.69,1.616,0.046,0.08,0.08,0.08,0.033,0.059,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.7,1.599,0.0485,0.08,0.08,0.08,0.036,0.061,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.71,1.583,0.05,0.08,0.08,0.08,0.0385,0.0615,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.71,1.566,0.0505,0.08,0.08,0.08,0.0405,0.0605,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331
+-0.72,1.553,0.05325,0.08,0.08,0.08,0.043,0.0635,"Barn Island,
+ Connecticut",Connecticut,"Barn Island,
+ Connecticut",-71.864,41.331

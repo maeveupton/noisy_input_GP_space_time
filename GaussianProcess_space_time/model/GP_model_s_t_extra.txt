@@ -1,0 +1,26 @@
+model
+{
+  #-----Jags code for stage 3 with extra noisy input-----
+  #G ~ dmnorm.vcov(mu.g,K) 
+  G ~ dmnorm(mu.g,K.inv) 
+  K.inv <- inverse(K)
+  #Data is normal centred on GP process with Time and RSL uncertainty
+  for (i in 1:n){
+    y.i[i] ~ dnorm(mu.i[i],1/(sigma.y^2 + sd.y[i]^2 + pow(extra[i],2)))#data  
+    mu.i[i] <- G[i]
+    K[i,i] <- pow(sigma_st,2) + 0.00001 
+    mu.g[i] <- alpha
+  #---- Squared exponential covariance function----
+     for(j in (i+1):n) {
+        K[i,j] <- pow(sigma_st,2)*exp(-pow(rho_t,2)*(dist_t[i,j]))*exp(-pow(rho_s,2)*(dist_s[i,j]))
+        K[j,i] <- K[i,j]
+    } 
+  }  
+  #-----Priors------
+  rho_t ~ dt(0,10^-2,1)T(0,) 
+  rho_s ~ dt(0,10^-2,1)T(0,) 
+  sigma.y ~ dt(0,1^-2,1)T(0,)
+  sigma_st ~ dt(0,10^-2,1)T(0,) 
+  alpha ~ dnorm(0, 10^-2)
+}
+
